@@ -1,0 +1,28 @@
+{
+  "name": "mod10challenge-",
+  "version": "1.0.0",
+  "description": "Challenge for module 10 from UTA Coding bootcamp",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Spoogh/Mod10Challenge-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Spoogh/Mod10Challenge-/issues"
+  },
+  "homepage": "https://github.com/Spoogh/Mod10Challenge-#readme",
+  "dependencies": {
+    "bootstrap-icons": "^1.9.1",
+    "inquirer": "^8.2.4",
+    "jest": "^29.2.2"
+  }
+}
